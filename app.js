@@ -2,6 +2,7 @@
 const weatherForm = document.querySelector(".weatherForms");
 const cityInput = document.querySelector(".cityInput");
 const card = document.querySelector(".card");
+// Remove this api endpoint to a .env file and then put that .env in .gitignore.
 const apiKey = "a8d3a9e6b348e76e2a224ef043b9070e";
 
 weatherForm.addEventListener("submit", async event => {
