@@ -1,7 +1,7 @@
 # weather-app
 Fetch weather data from an external api.
 
-## Made this web app using --
+## Learnt --
 - html
 - css
 - javascript
